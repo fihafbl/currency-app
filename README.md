@@ -1,7 +1,8 @@
 # Foreign Exchange Currency App Exercise
 
 ## Demo
-![Currency App](https://imgur.com/mMsrcwB)
+<a href="https://imgflip.com/gif/3n60x2"><img src="https://i.imgflip.com/3n60x2.gif" title="currency app fihafbl"/></a>
+
 
 ## Tech Stack
 ```
