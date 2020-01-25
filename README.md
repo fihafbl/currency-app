@@ -8,7 +8,8 @@
 ```
 1. Vuejs
 2. Bootstrap Vue
-3. Testing (Cypress)
+3. Axios
+4. Testing (Cypress)
 ```
 
 ## Folder Structure
