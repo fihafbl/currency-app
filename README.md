@@ -1,24 +1,49 @@
-# shopee_test
+# Foreign Exchange Currency App Exercise
+
+## Demo
+![Currency App](https://imgur.com/mMsrcwB)
+
+## Tech Stack
+```
+1. Vuejs
+2. Bootstrap Vue
+3. Testing (Cypress)
+```
+
+## Folder Structure
+```
+shopee-test/
+  ...
+  cypress/
+    fixtures/
+    integration/
+      currency_spec.js
+    plugins/
+    support/
+  ...
+  src/
+    assets/
+    components/
+      BodyCurrency.vue
+      Currency.vue
+    App.vue
+    main.js
+```
 
 ## Project setup
 ```
-npm install
+- git clone https://github.com/fihafbl/currency-app
+- npm install
+- npm run serve
+- open http://localhost:8080/
 ```
 
-### Compiles and hot-reloads for development
+## Run Testing
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+- node_modules/.bin/cypress open
 ```
 
-### Lints and fixes files
+## Run Simple Serices
 ```
-npm run lint
+open https://currency-vuejs.herokuapp.com/
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
